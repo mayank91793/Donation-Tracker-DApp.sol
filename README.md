@@ -54,6 +54,7 @@ Our vision is to revolutionize charitable giving through blockchain technology b
 - Donor profiles and reputation systems
 - Social features to share donation activity
 - Community forums for discussing causes and impact
+- //
 
 ---
 
